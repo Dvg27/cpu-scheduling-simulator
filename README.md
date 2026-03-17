@@ -6,5 +6,5 @@ This project implements:
 - Round Robin
 
 ## How to Run
-gcc scheduler3.c -o scheduler3
-./scheduler3
+gcc scheduler2.c -o scheduler2
+./scheduler2
